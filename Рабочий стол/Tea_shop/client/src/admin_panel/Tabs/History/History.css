@@ -1,0 +1,12 @@
+.history_change {
+    padding-top: 50px;
+}
+
+.items{
+    position: relative;
+}
+
+.edit_card{
+    position: absolute;
+    top: 0;
+}
